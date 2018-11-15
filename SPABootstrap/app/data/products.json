@@ -1,0 +1,114 @@
+﻿[
+  {
+    "id": 0,
+    "name": "htc 10",
+    "description" :  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "price": 59000,
+    "image": "http://maktechblog.com/wp-content/uploads/2016/04/HTC-10.jpg",
+    "company": "htc",
+    "productType":  "smartphone",
+    "isAvilable":  true
+  },
+  {
+    "id": 1,
+    "name": "OnePlus 3",
+    "description" :  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",    
+    "price": 27999,
+    "image": "http://images.fonearena.com/blog/wp-content/uploads/2016/05/OnePlus-3-leak1-938x1024.jpg",
+    "company": "OnePlus",
+    "productType": "smartphone",
+    "isAvilable": true
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy Note 7",
+    "description" :  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.", 
+    "price": 55000,
+    "image": "http://cdn1.knowyourmobile.com/sites/knowyourmobilecom/files/styles/gallery_wide/public/2016/08/galaxy-note7_curve_phone.jpg?itok=ZpZPFEDX",
+    "company": "Samsung",
+    "productType": "smartphone",
+    "isAvilable": true
+  },
+  {
+    "id": 3,
+    "name": "Nexus 6p",
+    "description" :  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.", 
+    "price": 39999,
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/b2/Front_and_back_of_the_Nexus_6P.jpg",
+    "company": "Huawei",
+    "productType": "smartphone",
+    "isAvilable": false
+  },
+  {
+    "id": 4,
+    "name": "Mac Book Air 2016",
+    "description" :  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.", 
+    "price": 79000,
+    "image": "http://cdn.ndtv.com/tech/images/apple_macbook_air.jpg",
+    "company": "Apple",
+    "productType": "laptop",
+    "isAvilable": true
+  },
+  {
+    "id": 5,
+    "name": "JBL Pulse Bluetooth Speaker",
+    "description" :  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.", 
+    "price": 2999,
+    "image": "http://www.chipchick.com/wp-content/uploads/2016/02/082-1.jpg",
+    "company": "JBL",
+    "productType": "accessories",
+    "isAvilable": false
+  },
+  {
+    "id": 6,
+    "name": "Sandisk 64gb Memory Card",
+    "description" :  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.", 
+    "price": 699,
+    "image": "http://cdn.shopclues.net/images/detailed/714/SD64GMCClass10_1372702395.jpg",
+    "company": "Sandisk",
+    "productType": "accessories",
+    "isAvilable": true
+  },
+  {
+    "id": 7,
+    "name": "Mi 5",
+    "description" :  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.", 
+    "price": 22999,
+    "image": "http://drop.ndtv.com/TECH/product_database/images/224201614903PM_635_xiaomi_mi_5_front_side.jpeg",
+    "company": "Xiaomi",
+    "productType": "smartphone",
+    "isAvilable": true
+
+  },
+  {
+    "id": 8,
+    "name": "Moto Z",
+    "description" :  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.", 
+    "price": 50000,
+    "image": "https://www.motorola.com/sites/default/files/library/storage/products/smartphones/moto-z-droid-1000-BHlxH8Uhiw.png",
+    "company": "Motolrola",
+    "productType": "smartphone",
+    "isAvilable": true
+  },
+  {
+    "id": 9,
+    "name": "OnePlus 2",
+    "description" :  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.", 
+    "price": 20000,
+    "image": "http://cdn2.gsmarena.com/vv/pics/oneplus/oneplus-two-2.jpg",
+    "company": "OnePlus",
+    "productType": "smartphone",
+    "isAvilable": true
+  },
+
+  {
+    "id": 10,
+    "name": "iPhone 6s",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "price": 45000,
+    "image": "http://store.storeimages.cdn-apple.com/4973/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone6s/select/iphone6s-select-2015?wid=1200&hei=630&fmt=jpeg&qlt=95&op_sharpen=0&resMode=bicub&op_usm=0.5,0.5,0,0&iccEmbed=0&layer=comp&.v=YHBkZ1",
+    "company": "Apple",
+    "productType": "smartphone",
+    "isAvilable": true
+  }
+]
